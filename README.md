@@ -6,11 +6,11 @@ Dash is primarily used for building web analytic applications. It is built on to
 
 ### Installation
 
-To get started with Dash, you will need to create an application which you further develop. In your terminal, create a project folder using `mkdir` command:
+To get started with Dash, you will need to create an application. In your terminal, create a project folder using `mkdir` command:
 
 ```python
 $ mkdir dash_app # create project folder
-$ cd dash_app # navigate intro the project folder
+$ cd dash_app # navigate into the project folder
 ```
 
 Create and activate your virtual environment:
@@ -22,19 +22,19 @@ $ mkvirtualenv venv # I am using virtualenvwrapper
 Install dash using `pip3`:
 
 ```python
-(venv)$ pip4 install dash
+(venv)$ pip3 install dash
 
 ```
 
 ### Create sample application
 
-With the project setup complete, you will need to create a python file called `app.py`. 
+With the project setup complete, you will need to create a python file called `app.py` inside your project folder:
 
 ```python
 (venv)$ touch app.py
 ```
 
-Create a sample web app as seen in the `app.py` file.
+Create a sample web app as seen in the `app.py` file. It is recommended that you write the code line after line rather than copying and pasting it.
 
 ### Testing
 
@@ -85,4 +85,4 @@ $ mkvirtualenv venv # I am using virtualenvwrapper
 (venv)$  python3 app.py # replace app.py with the other files to test them out too
 ```
 
-5. Access application in your web browser by clicking on the URL in your terminal or pasting that link in a tab in your browser. You should be able to see the web application.
+5. Access the application in your web browser by clicking on the URL in your terminal or pasting that link in a tab in your browser. You should be able to see the web application.
