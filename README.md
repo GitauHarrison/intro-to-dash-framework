@@ -87,3 +87,5 @@ $ mkvirtualenv venv # I am using virtualenvwrapper
 ```
 
 5. Access the application in your web browser by clicking on the URL in your terminal or pasting that link in a tab in your browser. You should be able to see the web application.
+
+Read more from the [documentation](https://dash.plotly.com/installation).
