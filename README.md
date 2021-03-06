@@ -23,6 +23,7 @@ Install dash using `pip3`:
 
 ```python
 (venv)$ pip3 install dash
+(venv)$ pip3 install pandas
 
 ```
 
